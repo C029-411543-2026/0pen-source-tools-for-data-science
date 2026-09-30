@@ -7,4 +7,4 @@ Tools Covered:
 3.R and RStudio - for statistics
 4.Anaconda - for Python data science
 
-This respiratory contains my assignments.
+This repository contains my assignments.
